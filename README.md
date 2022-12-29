@@ -1,2 +1,1 @@
-# 现场训练
-线性回归
+# Linear Regresion - Live Training
