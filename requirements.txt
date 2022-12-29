@@ -4,4 +4,4 @@ scikit-learn
 numpy
 dash_bootstrap_components==1.0.3
 pandas
-gunicorn
+gunicorn==20.1.0
