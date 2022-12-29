@@ -5,3 +5,4 @@ numpy
 dash_bootstrap_components==1.0.3
 pandas
 gunicorn==20.1.0
+werkzeug==2.0.3
