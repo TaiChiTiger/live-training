@@ -4,3 +4,4 @@ sklearn
 numpy
 dash_bootstrap_components==1.0.3
 pandas
+gunicorn
